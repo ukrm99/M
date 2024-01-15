@@ -1,0 +1,18 @@
+@font-face {
+font-family: '__FTPolar_7b8391';
+src: url("9eca7301e41d2d54.p.woff2") format('woff2');
+font-display: block;
+font-weight: 700;
+}
+
+@font-face {
+font-family: '__FTPolar_7b8391';
+src: url("755ddff6c3636604.p.woff2") format('woff2');
+font-display: block;
+font-weight: 500;
+}@font-face {font-family: '__FTPolar_Fallback_7b8391';src: local("Arial");ascent-override: 93.63%;descent-override: 22.22%;line-gap-override: 0.00%;size-adjust: 103.52%
+}.__className_7b8391 {font-family: '__FTPolar_7b8391', '__FTPolar_Fallback_7b8391'
+}
+
+
+/*# sourceMappingURL=73a09d7ae5b15216.css.map*/
